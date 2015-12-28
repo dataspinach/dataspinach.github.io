@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Data Spinach
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Jesse Szepieniec
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: Head Spinach
   email:
   disqus-shortname:
   twitter: #username
